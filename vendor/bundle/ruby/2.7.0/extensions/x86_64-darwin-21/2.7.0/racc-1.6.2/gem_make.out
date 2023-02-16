@@ -1,0 +1,18 @@
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+/Users/kimurayuta/.rbenv/versions/2.7.6/bin/ruby -I /Users/kimurayuta/.rbenv/versions/2.7.6/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230216-84362-j209a3 sitelibdir\=./.gem.20230216-84362-j209a3 clean
+
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230216-84362-j209a3 sitelibdir\=./.gem.20230216-84362-j209a3
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230216-84362-j209a3 sitelibdir\=./.gem.20230216-84362-j209a3 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230216-84362-j209a3/racc

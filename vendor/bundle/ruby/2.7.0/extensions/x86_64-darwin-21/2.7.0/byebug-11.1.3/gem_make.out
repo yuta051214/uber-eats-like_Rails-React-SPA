@@ -1,0 +1,20 @@
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+/Users/kimurayuta/.rbenv/versions/2.7.6/bin/ruby -I /Users/kimurayuta/.rbenv/versions/2.7.6/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230216-84362-1t1tnp9 sitelibdir\=./.gem.20230216-84362-1t1tnp9 clean
+
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230216-84362-1t1tnp9 sitelibdir\=./.gem.20230216-84362-1t1tnp9
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/kimurayuta/Desktop/rails_workspace/ubereats_like/uber-eats-like/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230216-84362-1t1tnp9 sitelibdir\=./.gem.20230216-84362-1t1tnp9 install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20230216-84362-1t1tnp9/byebug
